@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+body {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  padding: 50px;
+  background-color: white;
+}
+/* .info {
+  margin: 20px;
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+}
+.info div {
+  padding: 2rem;
+  margin: 0.5rem;
+  background-color: #1a5f7a;
+  border-radius: 10px;
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+  color: azure;
+  border: 3px solid #159895;
+  cursor: pointer;
+} */
